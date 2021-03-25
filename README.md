@@ -72,9 +72,12 @@
 
 7. CONCLUSIONES
 
-   - Como se ha estudiado en los circuitos resistivos en paralelo, la corriente total se divide para cada rama. Esto se aplica de igual manera en los circuitos RC en paralelo, pero considerando que existe una parte imaginaria (de la capacitancia) y una parte real (de la resistencia) para el valor de la corriente del circuito.
-   - Los circuitos RC en paralelo, se pueden analizar análogamente como un circuito puramente resistivo con corriente directa, pero resulta conveniente emplear otras magnitudes como lo son la conductancia, susceptancia y la admitancia, con el fin de facilitar el análisis y hallar de manera rápida la impedancia del circuito. 
-   - Dado un circuito en paralelo, es posible obtener un circuito equivalente a este pero en serie. Para lo cual se emplea el concepto del triángulo de impedancias. Por ello es necesario conocer la impedancia total del circuito en paralelo, y en base a ella se puede determinar los valores que deben tener la resistencia y la capacitancia para obtener un circuito equivalente en serie.
+   - La aplicación  de los campos magnéticos son amplias en el área de desarrollo de los circuitos eléctricos, ya que gracias al efecto de dichos campos, los cuales son producidos por las bobinas (devanados), se obtienen los transformadores. Estos transformadores únicamente constan de una bobina conectada a una fuente, mientras que la otra sólo se encuentra cerca de ella, y por el efecto de la inductancia mútua, se induce voltaje en la bobina que está desconectada.
+
+   - La función de un transformador depende estrictamente de la relación del número de vueltas  (n) de los devanados. Ya que, si se tiene un mayor número de vueltas en el devanado secundario que en el primario (n>1), el secundario inducirá un mayor voltaje al que tiene el primario, lo cual se conoce como transformador elevador
+
+   - Por el otro lado, ocurre exactamente igual, ya que cuando el devanado primario tiene más vueltas que el secundario (n<1), el voltaje inducido por el devanado secundario será menor al voltaje primario, tratándose así de un transformador reductor.
+
 
 8. BIBLIOGRAFÍA
    - Floyd, T.L.(2007). Principios de circuitos eléctricos (Octava ed.).
