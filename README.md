@@ -1,4 +1,4 @@
-# Circuitos RC En Paralelo
+# Transformadores Elevadores y Reductores
 1.  OBJETIVOS
     - Objetivo General:
       - Comprender y entender los transformadores elevadores y reductores y cómo funcionan.
