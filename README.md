@@ -8,7 +8,7 @@
       - Lograr entender la función del transformador elevador y reductor.
 2. MARCO TEÓRICO
 
-  
+  ![0001 (8)](https://user-images.githubusercontent.com/76133212/112402337-5d3d7500-8cda-11eb-8aeb-16e9be16d7b7.jpg)
 
 3. DESARROLLO
 
